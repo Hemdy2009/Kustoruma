@@ -1,0 +1,4 @@
+NAV:
+    Homepage (présentation)
+    Prendre Service
+    À propos
